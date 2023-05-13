@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arodriguezl9302&label=Profile%20views&color=0e75b6&style=flat" alt="arodriguezl9302" /> </p>
 
-- 🔭 I’m currently working on [Azordev](https://azordev.com/)
+- 🔭 I’m currently working on [NexoLife](https://www.nexolife.com/)
 
-- 👯 I’m looking to collaborate on [Developer in AZORDEV](https://github.com/Azordev)
+- 👯 I’m looking to collaborate on [Developer in NexoLife](https://github.com/NexoLifeLLC)
 
 - 📫 How to reach me **arodriguezl9302@gmail.com**
 
