@@ -23,12 +23,12 @@ class AboutMe {
   const myTools = {  
     "ProgramingLanguages" : [ "PHP", "Javascript" ],
     "FrameWorks" = { 
-      "BackEnd" : [ "ExpressJs", "Laravel" ],
+      "BackEnd" : [ "ExpressJs", "NestJs", "Laravel" ],
       "FrontEnd" : [ "ReactJs", "VueJs", "SvelteJs" ],
     },
     "OtherLanguages" : [ "HTML", "CSS", "SASS", "Bash", "Json", "Markdown" ],
     "Database" : [ "MySQL", "MariaDB", "PostgreSQL", "MongoDB", "Sqlite" ],
-    "Editors" : [ "Vscode", "Sublime", "Atom" ],
+    "Editors" : [ "Vscode", "Sublime"],
     "Platforms" : [ "GNU/Linux", "Windows" ],
     "OtherTools" : [ "Git", "PostMan", "Photoshop", "Gimp", "Lightroom" ]
   };
