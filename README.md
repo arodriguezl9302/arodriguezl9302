@@ -36,6 +36,12 @@
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-222222?style=flat&logo=DigitalOcean&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&logo=Ubuntu&logoColor=red)
 
+##### Some of my favorite open source projects
+[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+
 
 
 **📫 Reach me at:**<br>
