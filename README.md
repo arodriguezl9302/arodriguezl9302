@@ -32,6 +32,7 @@
 ![VueJs](https://img.shields.io/badge/-VueJs-222222?style=flat&logo=Vue.js&logoColor=43C9AC)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=laravel&logoColor=F43A2F)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker&logoColor=blue)
 ![VsCode](https://img.shields.io/badge/-VsCode-222222?style=flat&logo=VisualStudioCode&logoColor=blue)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-222222?style=flat&logo=DigitalOcean&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&logo=Ubuntu&logoColor=red)
