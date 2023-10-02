@@ -19,6 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
@@ -29,6 +30,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![NextJs](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=Next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=TailwindCSS&logoColor=07B0CE)
 ![VueJs](https://img.shields.io/badge/-VueJs-222222?style=flat&logo=Vue.js&logoColor=43C9AC)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=laravel&logoColor=F43A2F)
